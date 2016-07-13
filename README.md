@@ -2,19 +2,15 @@
     
 ######(If you like this theme or using it, please give a :star: for motivation.)
 
-**[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+**[CGQ](http://taylantatli.github.io/Moon)** is a real person, I promise his exsitance.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Education background
+* [China University of Geosciences(Wuhan)](http://www.cug.edu.cn)
+** Major: Gemology
+** Duration: 2011.9-2015.6
+* [Esc-Rennes](http://www.esc-rennes.fr)
+** Major: Master in Management
+** Duration: 2015.9-2017.6
 
 ## Preview
 
