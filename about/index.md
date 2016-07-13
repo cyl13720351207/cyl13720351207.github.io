@@ -1,21 +1,30 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About CYL
+tags: [one piece, resume, cv, cyl]
 date: 2016-03-21
 comments: false
 ---
     
 
-**[CGQ](http://taylantatli.github.io/Moon)** is a real person, I promise his exsitance.
+<center>大家好，我叫曹钰琳</center>
 
-## Education background
-* [China University of Geosciences(Wuhan)](http://www.cug.edu.cn)
-** Major: Gemology
-** Duration: 2011.9-2015.6
-* [Esc-Rennes](http://www.esc-rennes.fr)
-** Major: Master in Management
-** Duration: 2015.9-2017.6
+## 教育背景
+* [中国地质大学（武汉）](http://www.cug.edu.cn)
+* 专业: 宝石及材料工艺学
+* 时间: 2011.9-2015.6
+## 我到底是干什么的
+* 哈哈长这么大我只喜欢两样东西，一个是珠宝，另一个就是CGQ
+* 宅
+* 懒
+* 海贼王
+* 手绘
+* 脑残剧
+* 摩羯
+* 心机婊
+* 想了解我很简单，买一件我的货保证成为你朋友！
+* 以上
+
 
 ## Preview
 
